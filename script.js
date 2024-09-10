@@ -4,5 +4,5 @@ function getFormvalue() {
     let first = inputs[0].value;
     let second = inputs[1].value
     // console.log(first)
-    alert(first+second)
+    alert(first+" "+second)
 }
